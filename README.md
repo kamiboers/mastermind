@@ -1,6 +1,6 @@
 # Mastermind
 ###### Kami Boers
-######### Turing School Module One
+###### Turing School Module One
 
 Find the project spec [here] (https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown).
 
